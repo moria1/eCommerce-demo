@@ -1,0 +1,52 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "shoes",
+        "price": 129.99,
+        "description": "some desc aaa bbb ccc ddd eee lalala llala lalaqla lalala lalala."
+      },
+      {
+        "id": "2",
+        "name": "shirt",
+        "price": 99.99,
+        "description": "some desc aaa bbb ccc ddd eee lalala llala lalaqla lalala lalala."
+      },
+      {
+        "id": "3",
+        "name": "coat",
+        "price": 149.99,
+        "description": "some desc aaa bbb ccc ddd eee lalala llala lalaqla lalala lalala."
+      },
+      {
+        "id": "4",
+        "name": "dress",
+        "price": 109.99,
+        "description": "some desc aaa bbb ccc ddd eee lalala llala lalaqla lalala lalala."
+      },
+      {
+        "id": "5",
+        "name": "shoes",
+        "price": 129.99,
+        "description": "some desc aaa bbb ccc ddd eee lalala llala lalaqla lalala lalala."
+      },
+      {
+        "id": "6",
+        "name": "shirt",
+        "price": 99.99,
+        "description": "some desc aaa bbb ccc ddd eee lalala llala lalaqla lalala lalala."
+      },
+      {
+        "id": "7",
+        "name": "coat",
+        "price": 149.99,
+        "description": "some desc aaa bbb ccc ddd eee lalala llala lalaqla lalala lalala."
+      },
+      {
+        "id": "8",
+        "name": "dress",
+        "price": 109.99,
+        "description": "some desc aaa bbb ccc ddd eee lalala llala lalaqla lalala lalala."
+      }
+    ]
+  }
